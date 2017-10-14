@@ -15,8 +15,8 @@ The user can easily switch between single phrases that are shown to the user
 Priority: Very low
 
 These reminders can vary and be randomized from a collection, for example:
-* Breathing in i know i am breathing in, out
-* Breathing in i am aware of my body
+* Breathing in I know I am breathing in, out
+* Breathing in I am aware of my body
 * Breathing in ___________
 **Also being able to select the percentage chance for each**
 
@@ -36,7 +36,7 @@ Q: What is the relation between this and "Collections of phrases" (above)
 Priority: Medium
 
 Example:
-* Was i peaceful in my body and mind?
+* Was I peaceful in my body and mind?
 
 ## Remembering to take a break
 Priority: *High*
